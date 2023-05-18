@@ -26,7 +26,3 @@ main div.container div.row div[class^="col"] div.card img {
     width: 150px;
     height: auto;
 }
-
-main div.container div.row div[class^="col"] {
-    width: 18rem;
-}
